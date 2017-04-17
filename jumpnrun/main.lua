@@ -18,8 +18,7 @@
 -- OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 -- THE SOFTWARE.
 
--- C:\temp\love.js\release-performance>
--- c:\Python27\python.exe ../emscripten/tools/file_packager.py game.data --preload c:\svn\programming\love\codexgame@/ --js-output=game.js
+-- c:\Python27\python.exe ../emscripten/tools/file_packager.py game.data --preload c:\programming\jumpnrun@/ --js-output=game.js
 
 debug = true
 
